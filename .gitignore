@@ -1,5 +1,11 @@
-tmp/*
-config/database.php
-app/tmp/*
-app/config/database.php
-!empty
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
